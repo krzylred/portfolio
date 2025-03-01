@@ -1,2 +1,2 @@
 # portfolio
-That's my portfolio reposytory, containing projects and little achivements
+That's my portfolio repository, containing projects and little achievements
