@@ -1,2 +1,2 @@
- - Bug found during casual playing 
-[https://community.7daystodie.com/v1-bugs/confirmed/repairing-broken-window-gives-an-upgrade-to-cobblestone-challenge-reward-although-no-cobblestone-was-used-r587/]
+- Bug found during casual playing in "7 Days to Die" on PC
+  - [https://community.7daystodie.com/v1-bugs/confirmed/repairing-broken-window-gives-an-upgrade-to-cobblestone-challenge-reward-although-no-cobblestone-was-used-r587/]
